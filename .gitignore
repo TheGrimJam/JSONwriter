@@ -1,0 +1,15 @@
+#Everything
+node_modules
+gulp-tasks
+
+*.json
+gulpfile.js
+
+src/styles
+src/images
+src/includes
+src/index.html
+
+dist/images
+dist/styles
+dist/index.html

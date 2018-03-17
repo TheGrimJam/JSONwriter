@@ -1,6 +1,8 @@
 # JSONwriter
 A lightweight javascript solution to allow on-page edits of text to be exported into a JSON configuration file
 
+## * Do not use this in it's current state
+
 This is a rough first draft, and only to be used as a developer tool.
 
 ## Installation & Usage
